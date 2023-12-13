@@ -26,7 +26,11 @@ public class Ejemplo03 {
         
         // arreglo de tipo entero
         int[] arreglo3 = {5, 10, 15, 20, 25}; // sin new
-        
+        /* la diferecnia de estos 3 arreglos es que en el tercero no es necesario
+         usar el new sino que en cambio ya se le da valores y el primero con el 
+        segundo, el segundo esta una posicion 0 y el primero le estamos 
+        aignando la posicion.
+        */
         // arreglo de doubles - 3 elementos
         double[] arreglo4 = {5.1, 10.2, 15.2}; // sin new
         
